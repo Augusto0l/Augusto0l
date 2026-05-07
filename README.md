@@ -65,10 +65,6 @@ Acesse o repositório: [Portfólio](https://github.com/Augusto0l/Portfolio)
 - Desenvolvimento Mobile;
 - Automação com Python.
 
-## 📫 Contato
-
-[LinkedIn](www.linkedin.com/in/pedro-august0l)
-
 ---
 
 Este perfil está em constante atualização conforme avanço nos estudos e desenvolvo novos projetos.
