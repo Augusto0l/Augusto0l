@@ -1,31 +1,90 @@
-## # 👩🏻‍💻 Pedro Augusto
+# 🧑🏽‍💻 Pedro Augusto
 
-**`Desenvolvedor`**
+### Desenvolvedor em formação
 
-Sou estudante de Ciência da Computação com perfil proativo, comunicativo e orientado à resolução de problemas. Apaixonado por tecnologia e desenvolvimento de software, possuo facilidade para aprendizado rápido e trabalho em equipe. Busco oportunidades para aplicar e aprimorar meus conhecimentos em projetos desafiadores, contribuindo para soluções inovadoras no setor de tecnologia.
+Sou estudante de Ciência da Computação, com interesse em desenvolvimento de software, banco de dados, análise de sistemas e segurança digital.
 
+Tenho buscado desenvolver projetos acadêmicos e práticos utilizando tecnologias como Python, Java, SQL, SQLite, Oracle Database, PL/SQL, Android Studio e Django. Meu objetivo é evoluir continuamente como desenvolvedor, aplicando meus conhecimentos em projetos reais, organizados e bem documentados.
 
-### 🤖 Linguagens e Tecnologias
+Atualmente, estou construindo meu portfólio no GitHub com projetos voltados para programação, banco de dados, interfaces gráficas, desenvolvimento Android e sistemas web.
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  
-/>
+## 🎯 Objetivo Profissional
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
+Busco oportunidades para aplicar meus conhecimentos em tecnologia, desenvolver soluções eficientes e continuar aprendendo na prática. Tenho facilidade de aprendizado, perfil proativo e interesse em atuar com desenvolvimento de sistemas, banco de dados e segurança da informação.
 
-<br/>
+## 🤖 Linguagens e Tecnologias
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" alt="Android Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
+</p>
 
+| Categoria | Tecnologias |
+|----------|-------------|
+| Linguagens | Python, Java, SQL, PL/SQL |
+| Banco de Dados | SQLite, Oracle Database |
+| Desenvolvimento Web | HTML, CSS, Django |
+| Desenvolvimento Mobile | Android Studio, Java |
+| Ferramentas | Git, GitHub, VS Code, SQL Developer |
+| Outros conhecimentos | Lógica de Programação, Modelagem de Dados, CRUD, Documentação de Projetos |
 
+## 📌 Projetos em Destaque
+
+### Portfólio de Projetos Acadêmicos e Práticos
+
+Repositório criado para organizar projetos desenvolvidos durante minha trajetória de aprendizado em programação, banco de dados, automação e desenvolvimento de sistemas.
+
+Nele estão reunidos projetos simples, intermediários e mais completos, demonstrando minha evolução prática na área de tecnologia.
+
+Principais tipos de projetos presentes no portfólio:
+
+- Sistemas com Python;
+- Projetos com banco de dados SQLite;
+- Aplicações com interface gráfica;
+- Projetos Android;
+- Exercícios acadêmicos;
+- Sistemas CRUD;
+- Documentações técnicas para GitHub.
+
+Acesse o repositório: [Portfólio](https://github.com/Augusto0l/Portfolio)
+
+## 📚 Atualmente Estudando
+
+- Python aplicado a sistemas;
+- SQL e modelagem de banco de dados;
+- Oracle Database e PL/SQL;
+- Desenvolvimento Android com Java;
+- Django para desenvolvimento web;
+- Boas práticas de documentação para projetos no GitHub.
+
+## 🚀 Áreas de Interesse
+
+- Desenvolvimento de Software;
+- Banco de Dados;
+- Segurança Digital;
+- Análise de Sistemas;
+- Desenvolvimento Web;
+- Desenvolvimento Mobile;
+- Automação com Python.
+
+## 📊 GitHub Stats
+
+![Pedro Augusto GitHub Stats](https://github-readme-stats.vercel.app/api?username=Augusto0l&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto0l&layout=compact&theme=default)
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/pedro-augusto0l/)
+
+---
+
+Este perfil está em constante atualização conforme avanço nos estudos e desenvolvo novos projetos.
