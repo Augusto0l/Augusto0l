@@ -44,16 +44,6 @@ Repositório criado para organizar projetos desenvolvidos durante minha trajetó
 
 Nele estão reunidos projetos simples, intermediários e mais completos, demonstrando minha evolução prática na área de tecnologia.
 
-Principais tipos de projetos presentes no portfólio:
-
-- Sistemas com Python;
-- Projetos com banco de dados SQLite;
-- Aplicações com interface gráfica;
-- Projetos Android;
-- Exercícios acadêmicos;
-- Sistemas CRUD;
-- Documentações técnicas para GitHub.
-
 Acesse o repositório: [Portfólio](https://github.com/Augusto0l/Portfolio)
 
 ## 📚 Atualmente Estudando
@@ -74,12 +64,6 @@ Acesse o repositório: [Portfólio](https://github.com/Augusto0l/Portfolio)
 - Desenvolvimento Web;
 - Desenvolvimento Mobile;
 - Automação com Python.
-
-## 📊 GitHub Stats
-
-![Pedro Augusto GitHub Stats](https://github-readme-stats.vercel.app/api?username=Augusto0l&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto0l&layout=compact&theme=default)
 
 ## 📫 Contato
 
