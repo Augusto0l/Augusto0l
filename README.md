@@ -67,7 +67,7 @@ Acesse o repositório: [Portfólio](https://github.com/Augusto0l/Portfolio)
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/pedro-augusto0l/)
+[LinkedIn](www.linkedin.com/in/pedro-august0l)
 
 ---
 
