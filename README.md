@@ -36,7 +36,7 @@ Repositório criado para reunir e organizar projetos desenvolvidos ao longo da m
 
 O portfólio reúne projetos de diferentes níveis de complexidade envolvendo programação, banco de dados, automação, desenvolvimento web e construção de sistemas, permitindo acompanhar minha evolução técnica e prática.
 
-🔗 [Acessar Portfólio]([https://github.com/Augusto0l/Portfolio](https://github.com/Augusto0l?tab=repositories))
+🔗 [Acessar Portfólio]([https://github.com/Augusto0l/Portfolio](https://github.com/Augusto0l?tab=repositories)
 
 ## 📚 Atualmente Estudando
 
