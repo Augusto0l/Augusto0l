@@ -40,7 +40,7 @@ O portfólio reúne projetos de diferentes níveis de complexidade envolvendo pr
 
 ## 📚 Atualmente Estudando
 
-- Desenvolvimento de sistemas com Python e Java;
+- Desenvolvimento de sistemas com Python;
 - JavaScript e TypeScript;
 - React e desenvolvimento frontend;
 - React Native e Expo para desenvolvimento mobile;
